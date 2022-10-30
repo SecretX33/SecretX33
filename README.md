@@ -8,8 +8,8 @@
 &nbsp;
 
 <p align="center">
-  <picture align="center">
-  <source 
+  <picture>
+  <source
     srcset="https://github-readme-stats.vercel.app/api?username=SecretX33&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
