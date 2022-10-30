@@ -10,14 +10,14 @@
 <p align="center">
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SecretX33&show_icons=true&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api?username=SecretX33&show_icons=true&theme=radical&count_private=true"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SecretX33&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=SecretX33&show_icons=true&count_private=true"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=SecretX33&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SecretX33&show_icons=true&count_private=true" />
   </picture>
 </p>
 
