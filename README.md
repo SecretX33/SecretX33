@@ -3,7 +3,7 @@
 <h1 align="center">SecretX</h1>
 
 <p align="center">Backend Developer, Avid Learner</p>
-<p align="center">Can fluently write in Java and Kotlin, loves functional programming, currently learning C++</p>
+<p align="center">Can fluently write in Java and Kotlin, loves functional programming, currently learning Rust</p>
 
 &nbsp;
 
